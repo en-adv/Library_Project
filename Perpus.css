@@ -1,0 +1,49 @@
+.navbar {
+  background-color: #92b4f4;
+}
+
+.nav-link {
+  color: black;
+  font-size: larger;
+}
+.nav-link:hover {
+  color: white;
+}
+.nav-link::before {
+  color: white;
+}
+
+.navbar-brand img {
+  float: left;
+}
+.navbar-brand h3 {
+  margin-left: 80px;
+  font-family: "poppins";
+  font-weight: 700;
+  color: #023047;
+}
+
+.navbar-brand h5 {
+  margin-left: 80px;
+  font-weight: 200;
+  color: white;
+}
+.line {
+  background-color: #023047;
+  padding: 5px;
+}
+
+.d-none {
+  margin-left: 30px;
+}
+
+.nav-link {
+  margin-left: -5px;
+}
+
+.drop {
+  margin-bottom: 60%;
+}
+.col {
+  background-color: aliceblue;
+}
